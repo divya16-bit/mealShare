@@ -19,12 +19,6 @@ MealShare -
 - **Real-Time Notifications**: Users receive updates about new food listings and bookings.
 - **Payments**:
 
-## Tech Stack    
-Frontend: React
-Backend: Node.js
-Database: MongoDB
-Authentication: 
-Appwrite: Used for managing user authentication, database interactions, and other backend services
 
 ## Tech Stack
 - **Frontend**: React
